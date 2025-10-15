@@ -9,11 +9,11 @@ You needed to type first the name to see on the option number, and then you type
 
 Example:
 
-===============
+---
 
 LIBRARY LAUNCH
 
-===============
+---
 
 [1] - I want to open.
 
@@ -23,7 +23,7 @@ LIBRARY LAUNCH
 
 [Q] - Quit.
 
-===============
+---
 
 Select an option: 1
 
