@@ -1,3 +1,4 @@
+#LibraryLaunch
 This is a launcher for apps you select. This open the CMD app. First check you can open it before download my app.
 
 · To change the name and path of the app you want to open, type "C" and enter.
