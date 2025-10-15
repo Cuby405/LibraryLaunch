@@ -2,7 +2,8 @@ This is a launcher for apps you select. This open the CMD app. First check you c
 
 · To change the name and path of the app you want to open, type "C" and enter.
 
-You needed to type first the name to see on the option number, and then you type the path of the app/folder/document you wanted to open.
+- You needed to type first the name to see on the option number, and then you type the path of the app/folder/document you wanted to open.
+
 · To quit, type "Q" and enter.
 
 · To open one app, type the number and enter, you can't open more than one app at once.
